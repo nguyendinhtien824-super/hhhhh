@@ -1,0 +1,39 @@
+/* Yêu cầu 3: Nội dung (body) */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+/* Yêu cầu 4: Tiêu đề (thường là thẻ header) */
+header {
+    background-color: #e1f5fe; /* Màu xanh nhạt */
+}
+
+/* Yêu cầu 5: Thẻ điều hướng (nav) */
+nav {
+    background-color: #01579b; /* Màu xanh đậm */
+}
+
+/* Yêu cầu 6: Thẻ chính (main) */
+main {
+    background-color: #ffffff;
+    font-size: 18px;
+}
+
+/* Yêu cầu 8: Thẻ li (danh sách) */
+li {
+    display: inline-block;
+    width: 20%; /* Điều chỉnh chiều rộng mục danh sách */
+}
+
+/* Yêu cầu 9: Thẻ h1 */
+h1 {
+    text-align: center;
+    font-family: "Times New Roman", serif;
+    color: #333333;
+}
+
+/* Yêu cầu 10: Thẻ p (đoạn văn) */
+p {
+    line-height: 1.5;
+}
