@@ -1,4 +1,4 @@
-/* Yêu cầu 3: Định dạng font chữ và kích thước toàn trang */
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
@@ -6,46 +6,39 @@ body {
     padding: 0;
 }
 
-/* Yêu cầu 4: Màu nền cho phần header */
 header {
     background-color: #e3f2fd; /* Màu xanh cực nhạt */
     padding: 10px;
 }
 
-/* Yêu cầu 5: Màu nền cho thanh điều hướng (nav) */
 nav {
     background-color: #1976d2; /* Màu xanh đậm */
     padding: 10px;
 }
 
-/* Yêu cầu 6: Màu nền và cỡ chữ cho phần chính (main) */
 main {
     background-color: #ffffff;
     font-size: 1.1em;
     padding: 20px;
 }
 
-/* Yêu cầu 8: Hiển thị các mục danh sách nằm ngang */
 li {
     display: inline-block;
     width: 25%;
     text-align: center;
 }
 
-/* Yêu cầu 9: Căn giữa h1, đổi font và màu sắc */
 h1 {
     text-align: center;
     font-family: "Georgia", serif;
     color: #0d47a1;
 }
 
-/* Yêu cầu 10: Tăng khoảng cách dòng cho đoạn văn */
 p {
     line-height: 1.6;
     margin-bottom: 15px;
 }
 
-/* Thêm: Màu chữ cho menu để dễ nhìn trên nền xanh */
 nav a {
     color: white;
     text-decoration: none;
